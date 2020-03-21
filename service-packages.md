@@ -2,6 +2,7 @@
 title: Service Packages
 subtitle: Self-service orders to make things happen NOW
 layout: page
+permalink: /services/
 ---
 
 <script src="https://gumroad.com/js/gumroad-embed.js"></script>

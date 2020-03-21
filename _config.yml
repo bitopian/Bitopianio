@@ -1,10 +1,10 @@
 # Site
 title:              Bitopia
 bio:                'Truth - Advancement - Sovereignty'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+description:        "Above anything else, we truly believe in Bitcoin and blockchain technology to be a major part of sustaining individualism, transparency, and the free market in the future. If you're not interested in our services, you may find our blog posts to be quite riveting."
 locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://bitopia.io" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default

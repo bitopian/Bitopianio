@@ -5,8 +5,6 @@ layout: post
 tags: Bitcoin
 ---
 
-![](https://bitopia.io/assets/images/BitcoinVenezuela.jpg)
-
 Venezuela is a nation that has been facing an economic crisis and political instability in the past few years, which has caused its currency to highly devaluate due to inflation issues.
 
 Since the prices have increased a lot, and the salary it’s not enough to cover the necessities, this has caused that many Venezuelan fled the country to find a better life in some other South American nations.

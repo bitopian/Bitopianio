@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/bitopian
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bitopia.io
+  * I am bitopian (https://keybase.io/bitopian) on keybase.
+  * I have a public key ASAqr0GEQHr5z1ql92uklBs6PZpfO2ocYukfrPaY6bj8DQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202aaf4184407af9cf5aa5f76ba4941b3a3d9a5f3b6a1c62e91facf698e9b8fc0d0a",
+      "host": "keybase.io",
+      "kid": "01202aaf4184407af9cf5aa5f76ba4941b3a3d9a5f3b6a1c62e91facf698e9b8fc0d0a",
+      "uid": "5463b35d5a7f0ae598acf1065f940b19",
+      "username": "bitopian"
+    },
+    "merkle_root": {
+      "ctime": 1583133979,
+      "hash": "6205c7206a325733c8e21db83b5a85af0913cff8305d3016811f6aad2e2452e75526affab773599fa892c9b9d4939f474b64441dd46dc106bf13f8860bd026fb",
+      "hash_meta": "9f16c121c3972b4a077d340c6a513ee8c94a3e14a3dd2f59f7ad026130434bdb",
+      "seqno": 14891135
+    },
+    "service": {
+      "entropy": "swCiBo4CmhPVmMfz4Ds+NJde",
+      "hostname": "bitopia.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.0"
+  },
+  "ctime": 1583134006,
+  "expire_in": 504576000,
+  "prev": "d228af807a6b05efed02fdbf843973aaaa255c4d753da45aaaa2ef3fe9b3a018",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKq9BhEB6+c9apfdrpJQbOj2aXztqHGLpH6z2mOm4/A0Kp3BheWxvYWTESpcCBsQg0iivgHprBe/tAv2/hDlzqqolXE11PaRaqqLvP+mzoBjEICeqef8bkEcCY2tZUbfMNR7fc6ofPoXYYuEPhY4pG1UNAgHCo3NpZ8RALq1VcwSG6tOmThQpmcN7FZiI7uwmHYyRMtKOYgZQnV+pUBUnksvjfH4cLOs8ehru2WWvwtBNRDiW428Nd3pjD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFvFNjkmpo44ZJiG+ed70zT4SbXTHJ4YIwTa5GAVM736o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bitopian
+
+==================================================================

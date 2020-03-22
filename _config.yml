@@ -11,10 +11,10 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
+twitter:            https://twitter.com/Bitopiaio
 facebook:           default
 instagram:          default
-github:             default
+github:             https://bitopia.io
 
 # personal
 location:           Panama City, Panama           

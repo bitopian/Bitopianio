@@ -1,5 +1,5 @@
 ---
-Title: List of Countries Planning on Rolling Out Their Own Cryptocurrencies
+title: List of Countries Planning on Rolling Out Their Own Cryptocurrencies
 layout: post
 tags: international
 image: https://steemitimages.com/DQmSeJV2nJG8hpX2PCpwBTpyVSw8GDP1TfgQvCJxuZXoshv/Crypto-race-header.jpg

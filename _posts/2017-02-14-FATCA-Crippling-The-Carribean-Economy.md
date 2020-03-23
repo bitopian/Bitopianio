@@ -2,7 +2,7 @@
 Title: FATCA Crippling The Carribean Economy
 layout: post
 tags: fatca
-image: https://web.archive.org/web/20170707155517im_/https://i2.wp.com/www.iexpats.com/wp-content/uploads/2012/12/repeal-fatca.jpg?resize=312%2C160
+image: https://i.imgur.com/RmcQ5ds.jpg
 ---
 
 The original intention of FATCA was to prevent overseas money laundering and tax evasion by the ultra wealthy. Unfortunately, the regulations have mostly impacted the finances of middle class Americans and banking institutions of developing countries.

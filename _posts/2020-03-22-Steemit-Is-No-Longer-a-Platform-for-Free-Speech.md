@@ -8,7 +8,7 @@ With some of the most influential users supporting Hive, a hard-fork mutiny of t
 
 ![](https://i.imgur.com/p3DWl6c.png)
 
-The reaction by popular Steemit influencers are priceless:
+The reactions by popular Steemit influencers are priceless:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">So <a href="https://twitter.com/justinsuntron?ref_src=twsrc%5Etfw">@justinsuntron</a> has now started to censor posts on Steemit that relate to the fork. <a href="https://twitter.com/hashtag/steemisnottron?src=hash&amp;ref_src=twsrc%5Etfw">#steemisnottron</a> <a href="https://twitter.com/hashtag/steem?src=hash&amp;ref_src=twsrc%5Etfw">#steem</a> <a href="https://twitter.com/hashtag/cryptonews?src=hash&amp;ref_src=twsrc%5Etfw">#cryptonews</a> <a href="https://twitter.com/hashtag/censorship?src=hash&amp;ref_src=twsrc%5Etfw">#censorship</a> <a href="https://t.co/SbI1TJw6ai">https://t.co/SbI1TJw6ai</a></p>&mdash; Marky (@MarkySteem) <a href="https://twitter.com/MarkySteem/status/1240667353123348489?ref_src=twsrc%5Etfw">March 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
